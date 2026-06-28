@@ -6136,7 +6136,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
             <div class="info-card">
                 <div class="label">Minimal Deposit</div>
-                <div class="value">20.000 Ribu</div>
+                <div class="value">10.000 Ribu</div>
             </div>
             <div class="info-card">
                 <div class="label">Minimal Withdraw</div>
